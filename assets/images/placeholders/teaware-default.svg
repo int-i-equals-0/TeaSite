@@ -1,0 +1,12 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Изображение чайной посуды скоро появится</title>
+  <desc id="desc">Нейтральный плейсхолдер с гайванью</desc>
+  <rect width="1200" height="900" fill="#E7F0EA"/>
+  <rect x="104" y="104" width="992" height="692" rx="42" fill="#F7FAF4" stroke="#AFC7B8" stroke-width="3"/>
+  <path d="M414 438H786L752 648C746.21 683.459 715.529 710 679.599 710H520.401C484.471 710 453.79 683.459 448 648L414 438Z" fill="#DCE8E0" stroke="#496A57" stroke-width="14" stroke-linejoin="round"/>
+  <path d="M382 438H818" stroke="#496A57" stroke-width="14" stroke-linecap="round"/>
+  <path d="M474 396C506 354 548 334 600 334C652 334 694 354 726 396" stroke="#496A57" stroke-width="14" stroke-linecap="round"/>
+  <path d="M526 306C546 276 572 262 600 262C628 262 654 276 674 306" stroke="#7FA98B" stroke-width="12" stroke-linecap="round"/>
+  <path d="M378 742H822" stroke="#BFD2C5" stroke-width="12" stroke-linecap="round"/>
+  <text x="600" y="224" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" fill="#2E4635">Фото посуды скоро будет здесь</text>
+</svg>

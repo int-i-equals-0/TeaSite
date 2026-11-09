@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="light dark">
+    <title>Демка чайного магазина</title>
+    <meta
+      name="description"
+      content="Статическая демка сайта чайной компании: каталог, карточки товара, корзина и две брендовые версии."
+    >
+    <script>
+      (() => {
+        const segments = window.location.pathname.split("/").filter(Boolean);
+        const base = window.location.hostname.endsWith("github.io") && segments.length ? `/${segments[0]}/` : "/";
+        document.write(`<link rel="stylesheet" href="${base}styles/main.css">`);
+      })();
+    </script>
+  </head>
+  <body>
+    <tea-app></tea-app>
+    <noscript>Для работы демки нужен JavaScript.</noscript>
+    <script>
+      (() => {
+        const segments = window.location.pathname.split("/").filter(Boolean);
+        const base = window.location.hostname.endsWith("github.io") && segments.length ? `/${segments[0]}/` : "/";
+        document.write(`<script type="module" src="${base}src/main.js"><\/script>`);
+      })();
+    </script>
+  </body>
+</html>

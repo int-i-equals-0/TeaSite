@@ -1,0 +1,14 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Изображение чая скоро появится</title>
+  <desc id="desc">Нейтральный плейсхолдер с чашкой и чайным листом</desc>
+  <rect width="1200" height="900" fill="#E8F0E1"/>
+  <rect x="96" y="94" width="1008" height="712" rx="42" fill="#F7FAF1" stroke="#B9CBB0" stroke-width="3"/>
+  <path d="M412 492C412 432.353 460.353 384 520 384H714C773.647 384 822 432.353 822 492V510C822 590.634 756.634 656 676 656H558C477.366 656 412 590.634 412 510V492Z" fill="#DCE8D4" stroke="#54745E" stroke-width="14"/>
+  <path d="M822 450H870C918.601 450 958 489.399 958 538C958 586.601 918.601 626 870 626H778" stroke="#54745E" stroke-width="14" stroke-linecap="round"/>
+  <path d="M360 690H872" stroke="#A3BA99" stroke-width="14" stroke-linecap="round"/>
+  <path d="M548 312C512 258 538 210 602 180C618 238 604 286 548 312Z" fill="#7BA676"/>
+  <path d="M680 326C700 260 760 242 826 272C782 326 736 344 680 326Z" fill="#5E8E6E"/>
+  <path d="M614 356C586 298 612 244 674 212" stroke="#54745E" stroke-width="10" stroke-linecap="round"/>
+  <path d="M392 750H808" stroke="#C7D7BE" stroke-width="8" stroke-linecap="round"/>
+  <text x="600" y="224" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" fill="#2E4635">Фото чая скоро будет здесь</text>
+</svg>
